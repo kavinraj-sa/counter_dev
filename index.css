@@ -1,13 +1,10 @@
 body {
-    background-image: url("images/sixteen-miles-out-pPPbmx0Tfxc-unsplash.jpg");
+    background-image: url("images/laszlo-oveges-gjoUumoDarY-unsplash.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
-    font-family: Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Helvetica Neue, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
     font-weight: bold;
     text-align: center;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+    height: 100vh;
 
 }
 
